@@ -1,1 +1,1 @@
-# Jordand and Glen's Quiz App. 
+# Jordan and Glen's Quiz App. 
